@@ -5,7 +5,7 @@ StorageProvider is app for get access to decentralized storage network
 **Step to start**
 
 - [Download](https://github.com/DeNetPRO/StorageProvider/releases) (click to assets, and choose your OS)
-- Unpack 7z archive
+- Unpack archive
 - Open “launcher”
 
 
