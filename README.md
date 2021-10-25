@@ -1,5 +1,6 @@
-# StorageProvider
-StorageProvider is app for get access to decentralized storage network
+# DeNet Storage Provider
+
+DeNet Storage Provider is user-side client of decentralized storage network.
 
 ## We created launcher app, to make test launch easy
 **Step to start**
