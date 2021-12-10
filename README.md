@@ -1,13 +1,22 @@
 # DeNet Storage Provider
 
+**MainNet is Live**
+
 DeNet Storage Provider is user-side client of decentralized storage network.
+
+## Helpful Links
+
+- [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
+- [🌍 Token Site](https://dfile.tech)
+- [🌍 DeNet Site](https://denet.pro)
+- [📈 Dune Analytics](https://dune.xyz/djdeniro/DeNet-Storage)
 
 ## We created launcher app, to make test launch easy
 **Step to start**
 
 - [Download](https://github.com/DeNetPRO/StorageProvider/releases) (click to assets, and choose your OS)
 - Unpack archive
-- Open “launcher”
+- Open “app”
 
 
 **Step to test (after you double clicked “launcher”)**
