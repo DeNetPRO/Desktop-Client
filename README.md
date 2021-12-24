@@ -1,5 +1,7 @@
 # DeNet Storage Provider
 
+Last version: v.1.1.0
+
 **MainNet is Live**
 
 DeNet Storage Provider is user-side client of decentralized storage network.
