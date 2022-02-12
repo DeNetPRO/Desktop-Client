@@ -1,6 +1,7 @@
 # DeNet Storage Provider
 
-Last version: v.1.1.0
+Last stable version: v.1.1.0
+Last pre-release version: v1.2.0
 
 **MainNet is Live**
 
