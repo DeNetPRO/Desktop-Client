@@ -1,7 +1,7 @@
 # DeNet Storage Provider
 
 - Last stable version: [v.1.1.0](https://github.com/DeNetPRO/StorageProvider/releases/tag/mainnet-v1.1.0)
-- Last pre-release version: [v1.2.0_beta_v1](https://github.com/DeNetPRO/StorageProvider/releases/tag/mainnet-v1.2.0_beta_1)
+- Last pre-release version: [v1.2.0_beta_v2](https://github.com/DeNetPRO/StorageProvider/releases/tag/mainnet-v1.2.0_beta_2)
 
 **MainNet is Live**
 
