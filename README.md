@@ -4,8 +4,6 @@
 
 DeNet Storage Client is user-side client of decentralized storage network.
 
-[Latest version](https://github.com/DeNetPRO/StorageProvider/releases/latest)
-
 ## Helpful Links
 
 - [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
@@ -15,7 +13,7 @@ DeNet Storage Client is user-side client of decentralized storage network.
 ## We created launcher app, to make test launch easy
 **Step to start**
 
-- [Download](https://github.com/DeNetPRO/StorageProvider/releases) (click to assets, and choose your OS)
+- [Download](https://github.com/DeNetPRO/StorageProvider/releases/latest) (click to assets, and choose your OS)
 - Unpack archive
 - Open “app”
 
