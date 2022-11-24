@@ -1,6 +1,6 @@
 # DeNet Storage Provider
 
-[Latest version](https://github.com/DeNetPRO/StorageProvider/releases/tag/latest)
+[**Latest version**](https://github.com/DeNetPRO/StorageProvider/releases/latest)
 
 **MainNet is Live**
 
