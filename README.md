@@ -1,16 +1,16 @@
 # DeNet Storage Client
 
-[*Latest version*](https://github.com/DeNetPRO/StorageProvider/releases/latest)
-
 **MainNet is Live**
 
 DeNet Storage Client is user-side client of decentralized storage network.
+
+[*Latest version*](https://github.com/DeNetPRO/StorageProvider/releases/latest)
 
 ## Helpful Links
 
 - [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
 - [🌍 DeNet Site](https://denet.pro)
-- [📈 Dune Analytics](https://dune.xyz/djdeniro/DeNet-Storage)
+- [📈 Dune Analytics](https://dune.com/djdeniro/storageprotocol-v2)
 
 ## We created launcher app, to make test launch easy
 **Step to start**
