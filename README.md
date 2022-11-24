@@ -4,12 +4,11 @@
 
 **MainNet is Live**
 
-DeNet Storage Provider is user-side client of decentralized storage network.
+DeNet Storage Client is user-side client of decentralized storage network.
 
 ## Helpful Links
 
 - [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
-- [🌍 Token Site](https://dfile.tech)
 - [🌍 DeNet Site](https://denet.pro)
 - [📈 Dune Analytics](https://dune.xyz/djdeniro/DeNet-Storage)
 
@@ -30,11 +29,3 @@ DeNet Storage Provider is user-side client of decentralized storage network.
 # Video-guide
 
 [![Watch the video](https://img.youtube.com/vi/D0qoKiJDqaU/hqdefault.jpg)](https://youtu.be/D0qoKiJDqaU)
-
-# Warning!
-
-- Your tokens can be spent by ProofOfStorage, do not panic. It will be refunded automatically in the nearest time.
-- If you found bug, report about it using [Testnet BugTracker Form](https://docs.google.com/forms/d/e/1FAIpQLSfScWv2q7Y2X_cXq69anDdrC4v4aRsm9glXSVs21VntNTacSQ/viewform)
-- Files larger than 4,000 MB can take a long time to load (or got some errors)
-- Public testnet has logging (accounts count, files count, total storage size, errors log (without addresses and private keys))
-- If you share your experience in our chat, we will grow faster and we will prepare to launch MainNet faster!`
