@@ -6,23 +6,21 @@ DeNet Storage Client is user-side client of decentralized storage network.
 
 ## Helpful Links
 
-- [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
+
+- [🌍 DeNet Discord](https://discord.gg/Mt5ug7ds)
 - [🌍 DeNet Site](https://denet.pro)
+- [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
 - [📈 Dune Analytics](https://dune.com/djdeniro/storageprotocol-v2)
+- [🌍 DeNet YouTube](https://www.youtube.com/channel/UCeCxt3tYbtSkJvaznNjQimQ)
+
 
 ## We created launcher app, to make test launch easy
 **Step to start**
 
-- [Download](https://github.com/DeNetPRO/StorageProvider/releases/latest) (click to assets, and choose your OS)
-- Unpack archive
-- Open “app”
-
-
-**Step to test (after you double clicked “launcher”)**
-
-- Import your test account or create new one (and save private key)
-- Play with storage (try to upload, download, remove files)
-- Wait for testnet updates and rewards
+- [Download](https://github.com/DeNetPRO/StorageProvider/releases/latest) (choose your OS in assets) and install the app
+- Import your Ethereum wallet or create new one (don't forget to save a private key of your fresh acc)
+- Try storage (upload, download, remove files)
+- Wait for our updates
 
 # Video-guide
 
