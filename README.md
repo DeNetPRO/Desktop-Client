@@ -21,7 +21,7 @@ DeNet Storage Client is user-side client of decentralized storage network.
 - [📈 Dune Analytics](https://dune.com/djdeniro/storageprotocol-v2)
 - [🌍 DeNet YouTube](https://www.youtube.com/channel/UCeCxt3tYbtSkJvaznNjQimQ)
 
-# Video-guide
+## Video-guide
 [![Watch the video](https://img.youtube.com/vi/D0qoKiJDqaU/hqdefault.jpg)](https://youtu.be/D0qoKiJDqaU)
 
 
