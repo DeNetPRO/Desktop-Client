@@ -1,16 +1,6 @@
 # DeNet Storage Client
 
-**MainNet is Live**
-
 DeNet Storage Client is user-side client of decentralized storage network.
-
-## Helpful Links
-
-- [🌍 DeNet Discord](https://discord.gg/Mt5ug7ds)
-- [🌍 DeNet Site](https://denet.pro)
-- [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
-- [📈 Dune Analytics](https://dune.com/djdeniro/storageprotocol-v2)
-- [🌍 DeNet YouTube](https://www.youtube.com/channel/UCeCxt3tYbtSkJvaznNjQimQ)
 
 ## Steps to start
 
@@ -19,6 +9,17 @@ DeNet Storage Client is user-side client of decentralized storage network.
 - Try storage (upload, download, remove files)
 - Wait for our updates
 
-# Video-guide
+## Helpful Links
 
+# DeNet Mobile App!
+
+[![Watch the video](https://i.ytimg.com/an_webp/v6Qq8-n7d18/mqdefault_6s.webp?du=3000&sqp=CMqF_psG&rs=AOn4CLAoUK5h1nIZXD_mnE2qHk8Gf47DsA)](https://www.youtube.com/watch?v=v6Qq8-n7d18)
+
+- [🌍 DeNet Discord](https://discord.gg/Mt5ug7ds)
+- [🌍 DeNet Site](https://denet.pro)
+- [🌍 MainNet Dashboard](https://mainnet.dfile.tech)
+- [📈 Dune Analytics](https://dune.com/djdeniro/storageprotocol-v2)
+- [🌍 DeNet YouTube](https://www.youtube.com/channel/UCeCxt3tYbtSkJvaznNjQimQ)
+
+# Video-guide
 [![Watch the video](https://img.youtube.com/vi/D0qoKiJDqaU/hqdefault.jpg)](https://youtu.be/D0qoKiJDqaU)
