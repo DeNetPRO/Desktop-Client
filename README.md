@@ -12,7 +12,7 @@ DeNet Storage Client is user-side client of decentralized storage network.
 ## [DeNet Mobile App!](https://apps.apple.com/us/app/denet-storage/id1643491316)
 
 
-![Watch the video](https://i.ytimg.com/an_webp/v6Qq8-n7d18/mqdefault_6s.webp?du=3000&sqp=CILUyJwG&rs=AOn4CLCReldD0574tZHzAFO7CXwnoWfwjw)
+![Watch the video](https://youtu.be/v6Qq8-n7d18)
 
 ## Helpful Links
 
