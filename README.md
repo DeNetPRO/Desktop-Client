@@ -1,3 +1,11 @@
+## Repository Update Notice
+
+This repository is currently undergoing updates. Please keep an eye on this document for any notifications, and remember to check back regularly for the latest information.
+
+Thank you for your patience and interest in DeNet Storage Client!
+
+[![Demo](screen.png)]
+
 # DeNet Storage Client
 
 DeNet Storage Client is user-side client of decentralized storage network.
