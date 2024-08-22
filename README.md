@@ -4,7 +4,7 @@ This repository is currently undergoing updates. Please keep an eye on this docu
 
 Thank you for your patience and interest in DeNet Storage Client!
 
-[![Demo](screen.png)]
+![Demo](screen.png)
 
 # DeNet Storage Client
 
